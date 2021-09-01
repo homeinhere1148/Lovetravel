@@ -1,0 +1,69 @@
+/* moblie & tablet */
+
+@media (max-width: 1023px) {
+    .hide-on-mobile-tablet {
+        display: none;
+    }
+    .navbar__navigate-img {
+        margin: auto;
+        
+    }
+
+    .navbar__tablet-icon {
+       
+       display: block;
+    
+    }
+
+    .content__img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .content__about-infor-title {
+        text-align: center;
+    }
+
+    .content__about-infor-sub h2 {
+        margin-top: 20px;
+        margin-bottom: 26px;
+    }
+
+    .footer__content-end-company {
+        text-align: center;
+        width: 100%;
+        
+    }
+
+    .footer__content-end-logan {
+        text-align: center;
+    }
+
+    .infortrips__search-btn,
+    .infortrips__search-input {
+        width: 80%;
+    }
+
+
+}
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .hide-on-tablet {
+        display: none;
+    }
+
+    .circle:before {
+        font-size: 1070px;
+        top: 28%;
+    }
+
+
+}
+
+/* mobile */
+@media (max-width: 739px) {
+    .hide-on-mobile {
+        display: none;
+    }
+}
