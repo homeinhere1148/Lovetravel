@@ -10,10 +10,6 @@
     width: 100%;
     height: 38px;
     top: 0;
-
-    
-   
-
 }
 
 .navbar__intro {
@@ -659,8 +655,6 @@ top: -20px;
 
 .content__container {
     width: 100%;
-    /* display: flex; */
-    /* position: absolute; */
     height: 100%;
 }
 
@@ -671,9 +665,6 @@ top: -20px;
     margin-right: 170px;
     justify-content: center;
     display: flex;
-    /* display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-column-gap: 1px;  */
 }
 
 .content__img {
